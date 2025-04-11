@@ -1,0 +1,14 @@
+C:\Users\Jamal-Matloob\Desktop\Pd08\Task02\Task02\bin\Debug\Task02.exe.config
+C:\Users\Jamal-Matloob\Desktop\Pd08\Task02\Task02\bin\Debug\Task02.exe
+C:\Users\Jamal-Matloob\Desktop\Pd08\Task02\Task02\bin\Debug\Task02.pdb
+C:\Users\Jamal-Matloob\Desktop\Pd08\Task02\Task02\obj\Debug\Task02.csproj.AssemblyReference.cache
+C:\Users\Jamal-Matloob\Desktop\Pd08\Task02\Task02\obj\Debug\Task02.csproj.CoreCompileInputs.cache
+C:\Users\Jamal-Matloob\Desktop\Pd08\Task02\Task02\obj\Debug\Task02.exe
+C:\Users\Jamal-Matloob\Desktop\Pd08\Task02\Task02\obj\Debug\Task02.pdb
+D:\2nd_Semester\OOP\C#\PD08\Task02\Task02\bin\Debug\Task02.exe.config
+D:\2nd_Semester\OOP\C#\PD08\Task02\Task02\bin\Debug\Task02.exe
+D:\2nd_Semester\OOP\C#\PD08\Task02\Task02\bin\Debug\Task02.pdb
+D:\2nd_Semester\OOP\C#\PD08\Task02\Task02\obj\Debug\Task02.csproj.AssemblyReference.cache
+D:\2nd_Semester\OOP\C#\PD08\Task02\Task02\obj\Debug\Task02.csproj.CoreCompileInputs.cache
+D:\2nd_Semester\OOP\C#\PD08\Task02\Task02\obj\Debug\Task02.exe
+D:\2nd_Semester\OOP\C#\PD08\Task02\Task02\obj\Debug\Task02.pdb
