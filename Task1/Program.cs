@@ -10,7 +10,17 @@ namespace Task1
     {
         static void Main(string[] args)
         {
+            Student student = new Student("Mutaf", "UET Lahore", "BS CS", 2024, 2500.0F);
+            student.setName("Amaan");
 
+            Console.WriteLine(student.toString());
+
+            Staff staff = new Staff("Ali", "Sialkot", "UET", 2000);
+            staff.setName("Farhan");
+
+            Console.WriteLine(staff.toString());
+
+            Console.ReadKey();
         }
     }
 }
